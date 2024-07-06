@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img src="https://github.com/Nakul163/Nakul163/blob/main/Welcome%20to.gif"/>
+        <img align="center"  width="600" src="https://github.com/Nakul163/Nakul163/blob/main/Welcome%20to.gif"/>
     </h1>
 </div>
 <p align="center"> 
