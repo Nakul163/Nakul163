@@ -1,7 +1,7 @@
 ![logo](https://github.com/Nakul163/Nakul163/blob/main/GitBanner.png)
 ![logo](<div align="center">
     <h1>
-        <img src="/>
+        <img src="https://github.com/Nakul163/Nakul163/blob/main/Welcome%20to.gif">
     </h1>
 </div>)
 <h1 align="center">Hi 👋, I'm Nakul Karande</h1>
