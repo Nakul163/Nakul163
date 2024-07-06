@@ -1,7 +1,7 @@
 ![logo](https://github.com/Nakul163/Nakul163/blob/main/GitBanner.png)
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/Nakul163/count.svg" />
 </p>
 <h1 align="center">Hi 👋, I'm Nakul Karande</h1>
 <h3 align="center">4th year Computer Science Student</h3>
