@@ -1,7 +1,7 @@
 
 <div align="center">
     <h1>
-        <img src="https://github.com/Nakul163/Nakul163/blob/main/Welcome%20to.gif">
+        <img align="centre" width="300" src="https://github.com/Nakul163/Nakul163/blob/main/Welcome%20to.gif">
     </h1>
 </div>
 <h1 align="center">Hi 👋, I'm Nakul Karande</h1>
