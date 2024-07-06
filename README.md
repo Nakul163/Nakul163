@@ -1,9 +1,9 @@
 ![logo](https://github.com/Nakul163/Nakul163/blob/main/GitBanner.png)
-(<div align="center">
+<div align="center">
     <h1>
         <img src="https://github.com/Nakul163/Nakul163/blob/main/Welcome%20to.gif">
     </h1>
-</div>)
+</div>
 <h1 align="center">Hi 👋, I'm Nakul Karande</h1>
 <h3 align="center">4th year Computer Science Student</h3>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
