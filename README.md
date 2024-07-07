@@ -1,8 +1,4 @@
-<div align="center">
-    <h1>
-        <img align="center"  length="1000" height="400" src="https://github.com/Nakul163/Nakul163/blob/main/welcome.gif"/>
-    </h1>
-</div>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Nakul163/count.svg" />
