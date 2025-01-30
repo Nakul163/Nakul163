@@ -8,7 +8,7 @@
   <img src="https://profile-counter.glitch.me/Nakul163/count.svg" />
 </p>
 <h1 align="center">Hello 👋, I'm Nakul Karande</h1>
-<h3 align="center">4th year Computer Engineering Student</h3>
+<h3 align="center">Last year Computer Engineering Student</h3>
 <img align="centre" alt="coding" width="300" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 </br>
 </br>
